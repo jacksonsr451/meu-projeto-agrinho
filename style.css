@@ -16,7 +16,7 @@ a {
     color: black;
 }
 
-header > h1, 
+header, 
 header > ul {
     display: flex;
     flex-direction: row;
