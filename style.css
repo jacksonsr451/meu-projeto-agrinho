@@ -7,6 +7,5 @@ body {
 }
 
 .imagen {
-    width: 80%;
-    height: min-content;
+    height: 15px;
 }
